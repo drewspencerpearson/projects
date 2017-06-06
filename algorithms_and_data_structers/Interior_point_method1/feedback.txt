@@ -1,0 +1,48 @@
+03/25/16 16:27 
+
+Error loading drewsp/lab20/solutions.py:
+	expected an indented block (solutions.py, line 242)
+
+-------------------------------------------------------
+
+
+03/26/16 13:50 
+
+Problems 1-4 (30 points):
+Passed 224/300 tests
+Score += 22
+
+Extra Credit (8 points):
+Passed 80/80 tests
+Score += 8
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------
+
+
+04/07/16 16:08 
+
+Problems 1-4 (30 points):
+Passed 234/300 tests
+Score += 23
+
+Extra Credit (8 points):
+Passed 80/80 tests
+Score += 8
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 41/40 = 102.5%
+
+Excellent!
+
+-------------------------------------------------------
+
+

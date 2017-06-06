@@ -1,0 +1,17 @@
+11/7/2015 7:46
+
+Problem 1 (5 points):
+Score += 5
+
+Problems 2-4 (10 points):
+Score += 10
+
+Problems 5-7 (25 points):
+Score += 25
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------
+

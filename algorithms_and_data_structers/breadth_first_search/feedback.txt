@@ -1,0 +1,27 @@
+11/6/2015 4:52
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+BaconSolver (20 points):
+Score += 20
+
++2 for perfect 1st time
++3 for DFS
+
+Total score: 55/50 = 110.0%
+
+Excellent!
+
+
+Comments:
+	Perfect, as usual. Good work man.
+
+-------------------------------------------------------
+

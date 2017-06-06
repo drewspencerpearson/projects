@@ -1,0 +1,51 @@
+02/11/16 16:27 
+
+Problem 1-6 (30 points):
+Score += 30
+
+Problem 7 (10 points):
+ValueError: shapes (4,) and (3,) not aligned: 4 (dim 0) != 3 (dim 0)
+
+Total score: 30/40 = 75.0%
+
+-------------------------------------------------------
+
+
+02/13/16 11:32 
+
+Problem 1-6 (30 points):
+Incorrect Dictionary
+	Correct response: {0: 1.6000000000000001, 1: 0.19999999999999982, 2: 0.59999999999999964}
+	Student response: {3: 0, 4: 0}
+Incorrect Dictionary
+	Correct response: {3: 0, 4: 0}
+	Student response: {0: 1.6000000000000001, 1: 0.19999999999999982, 2: 0.59999999999999964}
+Score += 20
+
+Problem 7 (10 points):
+Score += 10
+
+Total score: 30/40 = 75.0%
+
+
+Comments:
+	Looks like you just returned your dictionaries in the wrong order.
+
+-------------------------------------------------------
+
+
+02/19/16 15:22 
+
+Problem 1-6 (30 points):
+Score += 30
+
+Problem 7 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------
+
+

@@ -1,0 +1,21 @@
+
+----------------------------------------------------
+12/4/2015 5:12
+
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+

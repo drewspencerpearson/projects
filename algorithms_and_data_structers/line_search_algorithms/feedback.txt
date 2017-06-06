@@ -1,0 +1,28 @@
+01/28/16 16:21 
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (15 points):
+Score += 15
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Excellent graph in problem 5
+
+-------------------------------------------------------
+
+

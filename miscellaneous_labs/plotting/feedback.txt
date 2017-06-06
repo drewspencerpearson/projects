@@ -1,0 +1,47 @@
+9/18/2015 10:05
+
+----------------------------------------------------
+Volume I Lab 3: Plotting with matplotlib
+Drew Pearson
+10/15/15
+
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):Incorrect plots
+	Red line for mean is missing
+Score += 7
+
+Problem 4 (10 points):
+Error: 'module' object has no attribute 'ripple'
+
+Total score: 27/40 = 67.5%
+
+9/18/2015 10:05
+
+----------------------------------------------------
+Volume I Lab 3: Plotting with matplotlib
+Drew Pearson
+10/15/15
+
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+

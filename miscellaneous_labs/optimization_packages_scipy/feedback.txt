@@ -1,0 +1,46 @@
+01/14/16 17:05 
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Failed to return a value.
+Print why stepsize=0.2 fails.
+Score += 0
+
+Problem 3 (10 points):
+Failed to return a value.
+Score += 0
+
+Problem 4 (10 points):
+Incorrect return values
+	Correct response: [   0.56348447  132.82073052 -116.26998091]
+	Student response: [   0.56348447 -116.26998091  132.82073052]
+Score += 5
+
+Total score: 15/40 = 37.5%
+
+-------------------------------------------------------
+
+
+01/21/16 16:29 
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------
+
+

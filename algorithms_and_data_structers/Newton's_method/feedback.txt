@@ -1,0 +1,74 @@
+01/19/16 15:10 
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (0 points):
+Score += 0
+
+Problem 4 (15 points):
+Use the numPoints argument to change the resolutions
+Score += 12
+
+Problem 5 (5 points):
+Score += 5
+
+Total score: 37/40 = 92.5%
+
+Great job!
+
+
+Comments:
+	Use the input arguments to plot_basins, you're ignoring some of them.
+
+-------------------------------------------------------
+
+
+01/23/16 12:30 
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (0 points):
+Score += 0
+
+Problem 4 (15 points):
+Score += 15
+
+Problem 5 (5 points):
+Score += 5
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+01/28/16 22:47 
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (0 points):
+UnboundLocalError: local variable 'new' referenced before assignment
+
+Problem 4 (15 points):
+Score += 15
+
+Problem 5 (5 points):
+Score += 5
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------
+
+

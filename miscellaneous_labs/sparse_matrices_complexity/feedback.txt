@@ -1,0 +1,54 @@
+
+----------------------------------------------------
+9/26/2015 5:58
+
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+	Matrix was not returned as csr sparse type
+Score += 8
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+	Problem4(8) failed
+		Correct response: 7.7193
+		Student response: None
+	Problem4(10) failed
+		Correct response: 8.1014
+		Student response: None
+	Problem4(30) failed
+		Correct response: 9.2352
+		Student response: None
+Score += 0
+
+Total score: 28/40 = 70.0%
+
+
+----------------------------------------------------
+9/29/2015 8:48
+
+Andre Gigena
+Math 345
+September 29, 2015
+
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+

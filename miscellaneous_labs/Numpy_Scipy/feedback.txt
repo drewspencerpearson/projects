@@ -1,0 +1,47 @@
+9/12/2015 10:48
+Volume 1 Lab 2: NumPy and SciPy
+Written Summer 2015 (Tanner Christensen)
+
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):Incorrect answer
+Score += 2
+--->Note: the variance should be a single number, not a list of numbers.
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 32/40 = 80.0%
+
+9/14/2015 11:41
+Volume 1 Lab 2: NumPy and SciPy
+Written Summer 2015 (Tanner Christensen)
+
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+

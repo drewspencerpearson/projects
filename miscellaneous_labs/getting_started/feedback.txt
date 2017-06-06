@@ -1,0 +1,53 @@
+9/5/2015 0:16
+
+IOError: Error loading drewsp/Volume2/lab1/calculator.py:
+	[Errno 2] No such file or directory
+
+-------------------------------------------------------
+
+9/9/2015 8:06
+
+Problem 1 (3 points):
+Score += 3
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (7 points):
+	incorrect outputs
+    Try running 'python solutions.py randomgarbage'.
+    The program crashes. Why?
+    (Hint 1: what is sys.argv? How should you use it
+    in your conditional 'if elif else' statments?
+    (Hint 2: you only need to modify one line of code)
+Score += 6
+
+Total score: 19/20 = 95.0%
+
+Great job!
+
+-------------------------------------------------------
+
+9/10/2015 3:30
+
+Problem 1 (3 points):
+Score += 3
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (7 points):
+Score += 7
+
+Total score: 20/20 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------
+

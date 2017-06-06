@@ -1,0 +1,87 @@
+9/12/2015 3:22
+
+Problem 1 (10 points):
+	bad Backpack docstring(s)
+Score += 8
+
+Problem 2 (15 points):
+	bad Jetpack docstring(s)
+Score += 13
+
+^^Fill out the class and function docstrings.
+Docstrings are important because they show others
+how to correctly use your code.
+
+Problem 3 (15 points):
+	Backpack.__eq__ failed on equal
+	Backpack.__eq__ failed on equal
+	Backpack.__eq__ failed on equal
+		Backpack_1.contents: ['an item', 'A', 'B']
+		Backpack_2.contents: ['an item', 'B', 'A']
+		(two backpacks with the same contents
+		 are equal even if the contents are in
+		 a different order
+
+	^Looks like you just forgot this part
+
+Score += 8
+
+Problem 4 (15 points):
+Score += 15
+
+Total score: 44/55 = 80%
+
+-------------------------------------------------------
+
+9/17/2015 3:40
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (15 points):
+	Backpack.__str__ failed
+	Student str(Backpack):
+
+Name:		ACME
+Color:		Blue and White
+Size:		3
+Max Size:	7
+Contents:
+			thing1
+			thing2
+			thing3
+
+Score += 14
+
+Problem 4 (15 points):
+Score += 15
+
+Total score: 54/55 = 98.1818181818%
+
+Excellent!
+
+-------------------------------------------------------
+
+9/19/2015 1:25
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (15 points):
+Score += 15
+
+Problem 4 (15 points):
+Score += 15
+
+Total score: 55/55 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------
+
