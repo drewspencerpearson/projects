@@ -1,5 +1,5 @@
 # projects
-This repository contains various projects that I have worked on in the past few years.
+This repository contains various projects that I have worked on during my undergrad
 
 I have seperated the projects into seperate files:
 
